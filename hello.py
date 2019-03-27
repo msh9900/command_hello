@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-//for command line git tutorial
-//Local repository modification
-=======
-//For command line git tutorial
-// GitHub modification
-
->>>>>>> origin/master
+// For command line git tutorial
+// First: GitHub modification
+// Second: Local repository modification
 print("HELLO WORLD")
 print("Tell your world")
 prInt("Tell his world")
